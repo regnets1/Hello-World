@@ -1,0 +1,10 @@
+alias cls="clear"
+alias q="exit"
+alias sudo="sudo "
+# alias shutdown="sudo shutdown -h now"
+# alias reboot="sudo reboot -h now"
+# alias update="sudo apt update && sudo apt upgrade -y"
+alias upgrade="sudo apt update && sudo apt upgrade -y"
+alias remove="sudo apt autoremove -y"
+alias ll="ls -lah"
+
